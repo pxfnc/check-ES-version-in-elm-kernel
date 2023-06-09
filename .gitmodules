@@ -1,0 +1,60 @@
+[submodule "packages/elm/browser"]
+	path = packages/elm/browser
+	url = https://github.com/elm/browser.git
+[submodule "packages/elm/bytes"]
+	path = packages/elm/bytes
+	url = https://github.com/elm/bytes.git
+[submodule "packages/elm/core"]
+	path = packages/elm/core
+	url = https://github.com/elm/core.git
+[submodule "packages/elm/file"]
+	path = packages/elm/file
+	url = https://github.com/elm/file.git
+[submodule "packages/elm/html"]
+	path = packages/elm/html
+	url = https://github.com/elm/html.git
+[submodule "packages/elm/http"]
+	path = packages/elm/http
+	url = https://github.com/elm/http.git
+[submodule "packages/elm/json"]
+	path = packages/elm/json
+	url = https://github.com/elm/json.git
+[submodule "packages/elm/parser"]
+	path = packages/elm/parser
+	url = https://github.com/elm/parser.git
+[submodule "packages/elm/project-metadata-utils"]
+	path = packages/elm/project-metadata-utils
+	url = https://github.com/elm/project-metadata-utils.git
+[submodule "packages/elm/random"]
+	path = packages/elm/random
+	url = https://github.com/elm/random.git
+[submodule "packages/elm/regex"]
+	path = packages/elm/regex
+	url = https://github.com/elm/regex.git
+[submodule "packages/elm/svg"]
+	path = packages/elm/svg
+	url = https://github.com/elm/svg.git
+[submodule "packages/elm/time"]
+	path = packages/elm/time
+	url = https://github.com/elm/time.git
+[submodule "packages/elm/url"]
+	path = packages/elm/url
+	url = https://github.com/elm/url.git
+[submodule "packages/elm/virtual-dom"]
+	path = packages/elm/virtual-dom
+	url = https://github.com/elm/virtual-dom.git
+[submodule "packages/elm-explorations/benchmark"]
+	path = packages/elm-explorations/benchmark
+	url = https://github.com/elm-explorations/benchmark.git
+[submodule "packages/elm-explorations/linear-algebra"]
+	path = packages/elm-explorations/linear-algebra
+	url = https://github.com/elm-explorations/linear-algebra.git
+[submodule "packages/elm-explorations/markdown"]
+	path = packages/elm-explorations/markdown
+	url = https://github.com/elm-explorations/markdown.git
+[submodule "packages/elm-explorations/test"]
+	path = packages/elm-explorations/test
+	url = https://github.com/elm-explorations/test.git
+[submodule "packages/elm-explorations/webgl"]
+	path = packages/elm-explorations/webgl
+	url = https://github.com/elm-explorations/webgl.git
